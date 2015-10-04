@@ -10,7 +10,8 @@
     "url": "git://github.com/Sharkyus/wflchat.git"
   },
   "dependencies": {
-    "socket.io": "1.3.7"
+    "socket.io": "1.3.7",
+    "lodash": "*"
   },
   "contributors": [
   ]
