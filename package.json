@@ -1,7 +1,7 @@
 {
   "name": "wflchat",
-  "version": "1.3.7",
-  "description": "node.js realtime framework server",
+  "version": "0.0.1",
+  "description": "node.js realtime chat server",
   "keywords": [
     "chat"
   ],
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "socket.io": "1.3.7",
-    "lodash": "*"
+    "lodash": "*",
+    "redis": "*"
   },
   "contributors": [
   ]
